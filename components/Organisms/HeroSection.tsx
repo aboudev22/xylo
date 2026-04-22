@@ -1,3 +1,5 @@
+"use client";
+
 import { Navbar } from "../Molecules/Navbar";
 
 export const HeroSection = () => {
